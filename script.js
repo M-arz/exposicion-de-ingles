@@ -155,7 +155,8 @@ works.forEach((w, i) => {
     if (!file) return;
     const reader = new FileReader();
     reader.onload = (ev) => {
-      zone.innerHTML = `<img src="${ev.target.result}" alt="${w.title}">`;
+      const result = ev.target && typeof ev.target.result === "string" ? ev.target.result : "";
+      zone.innerHTML = `<img src="${result}" alt="${w.title}">`;
       zone.appendChild(fileInput);
     };
     reader.readAsDataURL(file);
