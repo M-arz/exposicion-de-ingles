@@ -13,9 +13,7 @@ const works = [
       ["Movement", "Cubism / anti-war art"],
     ],
     sentences: [
-      "<b>Guernica</b> was painted by Pablo Picasso in 1937.",
-      "It was created in response to the bombing of the town of Guernica during the Spanish Civil War.",
-      "The painting has been exhibited in several countries and is now considered one of the most powerful anti-war statements in art history.",
+    
     ],
     note: "Show the image, then explain the historical event behind it before reading any label details. Visitors often ask why the painting has no color — have an answer ready.",
   },
@@ -33,9 +31,7 @@ const works = [
       ["Movement", "Literary monument"],
     ],
     sentences: [
-      "This monument was designed by the sculptor Lorenzo Coullaut Valera.",
-      "It was built to honor Miguel de Cervantes and his characters, Don Quixote and Sancho Panza.",
-      "The monument was finished decades after the sculptor's death and is visited by thousands of tourists every year.",
+      
     ],
     note: "Point out the two bronze figures at the base — most visitors recognize them before they recognize the author's statue above.",
   },
@@ -53,9 +49,7 @@ const works = [
       ["Movement", "Spanish Golden Age (Siglo de Oro)"],
     ],
     sentences: [
-      "Don Quixote was written by Miguel de Cervantes in the early 17th century.",
-      "It is considered the first modern novel and has been translated into more languages than almost any other book.",
-      "The story was influenced by medieval chivalry tales, which it playfully satirizes.",
+      
     ],
     note: "Keep a one-line plot summary ready — who Don Quixote is and why he thinks he's a knight — for visitors unfamiliar with the story.",
   },
@@ -73,9 +67,7 @@ const works = [
       ["Movement", "Neoclassical / Spanish nationalist music"],
     ],
     sentences: [
-      "This concerto was composed by Joaquín Rodrigo in 1939.",
-      "It was inspired by the gardens of the Royal Palace of Aranjuez.",
-      "The piece is still performed by orchestras around the world and is considered a symbol of Spanish classical music.",
+      
     ],
     note: "If possible, play a short clip of the second movement — it's the most recognizable part and gives visitors an anchor.",
   },
@@ -93,9 +85,7 @@ const works = [
       ["Movement", "Catalan Modernism"],
     ],
     sentences: [
-      "The Sagrada Família was designed by the architect Antoni Gaudí.",
-      "It was declared a UNESCO World Heritage Site in 2005.",
-      "Construction has not been finished yet, more than a century after it began.",
+     
     ],
     note: "This is a strong closing work — mention the ongoing construction to bridge naturally into the exhibition's connecting theme.",
   },
